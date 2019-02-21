@@ -1,4 +1,4 @@
-# Welcome to NYC Sinatra!
+- [ ]# Welcome to NYC Sinatra!
 
 ## Introduction
 
@@ -140,3 +140,24 @@ Here's a sample form you can use for reference:
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/nyc-sinatra'>Sinatra NYC</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/nyc-sinatra'>Sinatra NYC</a> on Learn.co and start learning to code for free.</p>
+
+# FiguresController
+- [ ]  allows you to view form to create a new figure (FAILED - 1)
+- [ ]    allows you to create a new figure with a title (FAILED - 2)
+- [ ]    allows you to create a new figure with a landmark (FAILED - 3)
+- [ ]    allows you to create a new figure with a new title (FAILED - 4)
+- [ ]    allows you to create a new figure with a new landmark (FAILED - 5)
+- [ ]    creates checkboxes for all the landmarks and titles created on the Figures new page (FAILED - 6)
+- [ ]  allows you to list all figures (FAILED - 7)
+- [ ]  allows you to see a single Figure (FAILED - 8)
+- [ ]  allows you to view form to edit a single figure (FAILED - 9)
+- [ ]  allows you to edit a single figure (FAILED - 10)
+
+
+# LandmarksController
+- [ ]  allows you to view form to create a new landmark (FAILED - 11)
+- [ ]  allows you to create a new landmark (FAILED - 12)
+- [ ]  allows you to list all landmarks (FAILED - 13)
+- [ ]  allows you to see a single landmark (FAILED - 14)
+- [ ]  allows you to view the form to edit a single landmark (FAILED - 15)
+- [ ]  allows you to edit a single landmark (FAILED - 16)
